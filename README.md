@@ -1,4 +1,4 @@
-zshmarks
+mac-packaging
 ========
 
 A set of common functions used for enterprise Mac Packaging with Munki.
